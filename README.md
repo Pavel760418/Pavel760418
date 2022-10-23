@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pavel760418
 - 👀 I’m interested in  Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Skillfactory
  💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .andryushchenko.pu@gmail.com
 - 
 
 <!---
